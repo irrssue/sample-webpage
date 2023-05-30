@@ -1,0 +1,15 @@
+/* Packages */
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* Container */
+.container {
+  width: 85%;
+  margin: 0 auto;
+}
+
+.container.small {
+  width: 60%;
+  max-width: 35rem;
+}
