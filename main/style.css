@@ -67,7 +67,7 @@ p {
 }
 
 p.section-intro {
-  font-size: 18px;
+  font-size: 25px;
   font-weight: lighter;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -77,8 +77,8 @@ p.section-intro {
   color: rgba(255, 255, 255, 80%);
 }
 
-p.number {
-  font-size: 43px;
+.number {
+  font-size: 53px;
   font-weight: 200;
   color: rgba(60, 58, 71, 50%);
 }

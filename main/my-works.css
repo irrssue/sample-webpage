@@ -4,7 +4,7 @@
 
 
 #my-works {
-  background-color: #EFF0EA;
+  background-color: white;
 }
 
 section header {
@@ -24,7 +24,7 @@ h3 + p {
 }
 
 img {
-  max-width: 100%;
+  max-width: 50%;
   margin-bottom: 23px;
 }
 
@@ -32,3 +32,11 @@ img {
   text-align: left;
 }
 
+
+.gallery p {
+  font-size: 20px;
+}
+
+#gallery-link {
+  font-size: 30px;
+}
