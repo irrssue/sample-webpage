@@ -31,5 +31,6 @@ section {
 }
 
 #header-img {
-  width: 100px;
+  width: 400px;
+  border-radius: 20px;
 }
