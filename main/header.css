@@ -16,6 +16,7 @@ h1 {
   font-size: 60px;
   font-weight: bold;
   word-spacing: 2rem;
+  user-select: none;
 }
 
 header h1 a {
