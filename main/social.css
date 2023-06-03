@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+
+
+#social {
+  display: grid;
+  grid-template-columns: repeat(2, 3fr);
+  gap: 30px;
+  margin: 30px;
+}
+
+.message {
+  text-align: center;
+}
+
+.message * {
+}
+
+.message h1 {
+  font-size: 70px;
+  font-family: 'Raleway', sans-serif;  
+}
+
+.message form label{
+  display: block;
+  text-align: start;
+}
+
+.social-media {
+  text-align: center;
+}
+
