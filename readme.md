@@ -14,7 +14,7 @@ created by: **irrssue** on **May 30, 2023**
 
 ### Toods I used
 
-[color picker](https://htmlcolorcodes.com/color-picker/) -- for picking colors
-[also color picker](https://coolors.co/b99f14) -- same
-[icons](https://www.flaticon.com) -- for free icons
-[youtube tutorial](https://www.youtube.com/watch?v=iG2jotQo9NI&t=25766s) -- for when I stuck in erros
+[color picker](https://htmlcolorcodes.com/color-picker/) -- for picking colors <br>
+[also color picker](https://coolors.co/b99f14) -- same <br>
+[icons](https://www.flaticon.com) -- for free icons <br>
+[youtube tutorial](https://www.youtube.com/watch?v=iG2jotQo9NI&t=25766s) -- for when I stuck in erros <br>
