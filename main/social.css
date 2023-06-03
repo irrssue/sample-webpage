@@ -59,6 +59,11 @@
   padding: 20px;
 }
 
+.message form button:hover {
+  background-color: black;
+  color: white;
+}
+
 
 .social-media {
   text-align: center;
